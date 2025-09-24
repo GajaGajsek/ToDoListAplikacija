@@ -96,7 +96,6 @@ pytest
 ---
 
 ## 📸 GUI pogled
-*(priporočeno dodati sliko okna GUI, npr. posnetek zaslona Tkinter aplikacije)*  
 ![img.png](img.png)
 ---
 
